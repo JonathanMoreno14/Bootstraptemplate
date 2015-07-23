@@ -8,4 +8,10 @@ This template is a single Webpage. It utilizes parallax scrolling with a navigat
 ####Known Issues
 The footer tends to move up when the screen is repositioned to a smaller size. The price tables also over lay when the screen is repositioned. There are some media queries that have been added. 
 
+##How to Use
 
+You can clone the repository
+
+```git
+$ git clone https://github.com/JonathanMoreno14/Bootstraptemplate.git
+```
